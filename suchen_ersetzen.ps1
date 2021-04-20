@@ -1,4 +1,4 @@
-## Skript um Textstellen in vielen Dateien zu ändern
+# Skript um Textstellen in vielen Dateien zu ändern
 
 # Pfad in dem die Dateien gescannt werden sollen, der Stern am Ende muss vorhanden sein
 
